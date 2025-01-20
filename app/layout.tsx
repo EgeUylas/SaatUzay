@@ -8,10 +8,10 @@ import { useState, useEffect } from "react";
 
 const spaceGrotesk = Space_Grotesk({ subsets: ["latin"] });
 
-const metadata = {
+/*const metadata = {
   title: "NOVA TIMEPIECE - Geleceğin Lüks Saatleri",
   description: "Uzayın derinliklerinden ilham alan lüks saat koleksiyonu",
-};
+};*/
 
 function ThemeToggle() {
   const { theme, toggleTheme } = useTheme();
