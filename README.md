@@ -16,7 +16,7 @@ Responsive Tasarım: Hem mobil hem de masaüstü cihazlarda sorunsuz çalışaca
 Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
 Repository'i Klonlayın:
-git clone https://github.com/kullaniciAdi/saatuzay.git
+git clone https://github.com/egeuylas/saatuzay.git
 
 Bağımlılıkları Yükleyin:
 npm install
